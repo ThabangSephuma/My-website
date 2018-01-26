@@ -1,7 +1,6 @@
 
 ul {
   list-style: none; 
-  color: blue;
 }
 li {
   float: left;
@@ -9,5 +8,5 @@ li {
 a {
   display: inline-block;
   text-decoration: none;
-  
+  padding: 5px;  
 }
