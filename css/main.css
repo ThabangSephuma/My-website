@@ -1,12 +1,17 @@
 
+body {
+  margin: 0px;
+}
+
 ul {
   list-style: none; 
 }
 li {
   float: left;
+  padding: 5px;
 }
 a {
-  display: inline-block;
+  display:block;
   text-decoration: none;
-  padding: 5px;  
+  padding: 10px;  
 }
