@@ -1,2 +1,2 @@
-# My-website
-This is a repository for my first and own website
+#This a repository for my website
+here is the website thabangsephuma.github.io/My-website
