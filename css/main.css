@@ -5,13 +5,15 @@ body {
 
 ul {
   list-style: none; 
+  overflow: hidden;
 }
 li {
   float: left;
   padding: 5px;
 }
 a {
-  display:block;
+  padding: 10px; 
+  display: block;
+  text-align: center;
   text-decoration: none;
-  padding: 10px;  
 }
