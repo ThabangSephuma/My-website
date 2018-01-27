@@ -2,6 +2,9 @@
 body {
   margin: 0px;
 }
+.navbar {
+  background-color:#040565;
+}
 ul {
   list-style: none; 
   overflow: hidden;
