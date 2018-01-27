@@ -1,9 +1,9 @@
 
 html {
-  margin: 0px;
+  margin: 0;
 }'
 div {
-  margin: 0px;
+  margin: 0;
 }
 .navbar {
   background-color:#040565;
@@ -16,7 +16,7 @@ li {
   float: left;
 }
 a {
-  padding: 20px; 
+  padding: 20; 
   display: block;
   text-align: center;
   text-decoration: none;
