@@ -10,7 +10,7 @@ li {
 }
 a {
   padding: 20px; 
-  display: block;
+  display: inline-block;
   text-align: center;
   text-decoration: none;
 }
