@@ -23,6 +23,6 @@ a {
   text-align: center;
   text-decoration: none;
 }
-ul li a hover: {
+ul li a:hover {
   backgrground-color: #003a67;
 }
