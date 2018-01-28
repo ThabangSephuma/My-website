@@ -18,8 +18,8 @@ li {
   float: left;
 }
  ul li a {
-   color: white;
-   font-weight: strong;
+  color: white;
+  font-weight: strong;
   padding: 20px; 
   display: inline-block;
   text-align: center;
