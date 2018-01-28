@@ -17,12 +17,14 @@ ul {
 li {
   float: left;
 }
-a {
+ ul li a {
+   color: white;
+   font-weight: strong;
   padding: 20px; 
   display: inline-block;
   text-align: center;
   text-decoration: none;
 }
-a:hover {
-  backgrground-color: #003a67;
+ul li a:hover {
+  background-color: #003a67;
 }
