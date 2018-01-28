@@ -3,9 +3,7 @@ html {
 }
 body {
   margin: 0px;
-}
-div { 
-  margin-top: -20px;
+  background: yellow;
 }
 .navbar {
   background-color: blue;
