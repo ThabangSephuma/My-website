@@ -12,6 +12,7 @@ body {
 ul {
   list-style: none; 
   overflow: hidden;
+  margin: 0px;
 }
 li {
   float: left;
