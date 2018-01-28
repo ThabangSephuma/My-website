@@ -7,7 +7,7 @@ body {
   background-color: yellow;
 }
 .navbar {
-  background-color: blue;
+  background-color: 041a2f;
 }
 ul {
   list-style: none; 
@@ -22,4 +22,7 @@ a {
   display: inline-block;
   text-align: center;
   text-decoration: none;
+}
+ul li a hover: {
+  backgrground-color: #003a67;
 }
