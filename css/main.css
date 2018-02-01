@@ -4,7 +4,7 @@ html {
 }
 body {
   margin: 0px;
-  background-color: yellow;
+  background-color:#639dd1;
 }
 .navbar {
   background-color: #041a2f;
@@ -18,8 +18,8 @@ li {
   float: left;
 }
  ul li a {
-  color: white;
-  font-weight: strong;
+   color: white;
+   font-weight: strong;
   padding: 20px; 
   display: inline-block;
   text-align: center;
@@ -27,4 +27,14 @@ li {
 }
 ul li a:hover {
   background-color: #003a67;
+}
+.center {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+h1 {
+  text-decoration: underline;
+}
+p {
+  font-size: 20px;
 }
