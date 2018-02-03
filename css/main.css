@@ -38,7 +38,7 @@ ul li a:active {
 }
 ul li a:visited {
   text-decoration: none;
-  color: none;
+  color: white;
 }
 .center {
   font-family: "Poppins", sans-serif;
