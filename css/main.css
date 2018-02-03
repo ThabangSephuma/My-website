@@ -32,6 +32,10 @@ ul li a:hover {
   background-color: #003a67;
   
 }
+ul li a:active {
+  text-decoration: none;
+  color:white;
+}
 .center {
   font-family: "Poppins", sans-serif;
   text-align: center;
