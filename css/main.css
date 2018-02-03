@@ -34,7 +34,7 @@ ul li a:hover {
 }
 ul li a:active {
   text-decoration: none;
-  color:white;
+  color: none;
 }
 .center {
   font-family: "Poppins", sans-serif;
