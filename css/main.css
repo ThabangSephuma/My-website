@@ -18,15 +18,19 @@ li {
   float: left;
 }
  ul li a {
+   
    color: white;
    font-weight: strong;
-  padding: 20px; 
-  display: inline-block;
-  text-align: center;
-  text-decoration: none;
+   padding: 15px;
+   display: inline-block;
+   text-align: center;
+   text-decoration: none;
 }
 ul li a:hover {
+  color: white;
+  text-decoration: none;
   background-color: #003a67;
+  
 }
 .center {
   font-family: "Poppins", sans-serif;
@@ -37,4 +41,11 @@ h1 {
 }
 p {
   font-size: 20px;
+}
+#attention {
+  color: red;
+}
+footer {
+  background-color: #041a2f;
+  color: white;
 }
