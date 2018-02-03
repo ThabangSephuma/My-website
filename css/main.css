@@ -6,7 +6,9 @@ body {
   margin: 0px;
   background-color:#639dd1;
 }
-.navbar {
+.navba {
+  border: none;
+  border-radius:0px;
   background-color: #041a2f;
 }
 ul {
@@ -39,6 +41,9 @@ ul li a:active {
 ul li a:visited {
   text-decoration: none;
   color: white;
+}
+.active {
+  background-color: #0ea1d6;
 }
 .center {
   font-family: "Poppins", sans-serif;
