@@ -42,7 +42,7 @@ ul li a:visited {
   color: white;
 }
 section {
-  background: url("images/parallax.jpeg");
+  background-image: url("images/parallax.jpeg");
   background-repeat:no-repeat;
   background-size: cover;
   background-position: 0px -50px;
