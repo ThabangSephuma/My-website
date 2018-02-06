@@ -41,6 +41,12 @@ ul li a:visited {
   text-decoration: none;
   color: white;
 }
+section {
+  background: url("images/parallax.jpeg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: 0px -50px;
+}
 .active {
   background-color: #0ea1d6;
 }
