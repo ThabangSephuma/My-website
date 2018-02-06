@@ -43,7 +43,7 @@ ul li a:visited {
 }
 section {
   height: 800px;
-  background: url("My-website/images/parallax.jpeg ");
+  background: url("My-website/images/parallax.jpeg");
   background-repeat:no-repeat;
   background-size: cover;
   background-position: 0px -50px;
