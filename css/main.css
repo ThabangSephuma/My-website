@@ -42,12 +42,12 @@ ul li a:visited {
   color: white;
 }
 section {
-  margin-top: -50px;
+  margin-top: -10px;
   height: 800px;
   background: url("../images/parallaxx.jpeg");
   background-repeat:no-repeat;
   background-size: cover;
-  background-position: 0px -50px;
+  background-position: 0px -100px;
 }
 .active {
   background-color: #0ea1d6;
