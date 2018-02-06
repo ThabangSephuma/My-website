@@ -46,7 +46,7 @@ section {
   background-image: url("images/parallax.jpeg");
   background-repeat:no-repeat;
   background-size: cover;
-  background-position: 0px -50px;
+  //background-position: 0px -50px;
 }
 .active {
   background-color: #0ea1d6;
