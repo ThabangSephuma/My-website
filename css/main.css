@@ -42,6 +42,7 @@ ul li a:visited {
   color: white;
 }
 section {
+  margin: 0px;
   height: 800px;
   background: url("https://github.com/ThabangSephuma/My-website/blob/master/images/parallax.jpeg?raw=true");
   background-repeat:no-repeat;
