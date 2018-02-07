@@ -8,7 +8,7 @@ body {
 }
 .navba {
   border: none;
-  position: fixed;
+  position: relative;
   border-radius:0px;
   background-color: #041a2f;
 }
