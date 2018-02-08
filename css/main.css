@@ -45,7 +45,6 @@ ul li a:visited {
   color: white;
 }
 section {
-  margin-top: -10px;
   height: 800px;
   background: url("../images/parallaxx.jpeg");
   background-repeat:no-repeat;
