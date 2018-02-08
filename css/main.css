@@ -13,11 +13,11 @@ body {
   left: 0;
   z-index: 1000;
   background-color: #041a2f;
+  margin-top: 50px;
 }
 ul {
   list-style: none; 
   overflow: hidden;
-  margin: 0px;
 }
 li {
   float: left;
