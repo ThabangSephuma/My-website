@@ -13,6 +13,7 @@ body {
   left: 0;
   z-index: 1000;
   background-color: #041a2f;
+  margin-bottom: 50px;
 }
 ul {
   list-style: none; 
