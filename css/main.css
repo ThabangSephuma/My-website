@@ -9,9 +9,10 @@ body {
 .navba {
   border: none;
   position: fixed;
-  top:0;
-  right: 0;
-  left: 0;
+  top: 0px;
+  bottom: 50px;
+  right: 0px;
+  left: 0px;
   z-index: 1000;
   background-color: #041a2f;
   margin-bottom: 50px;
